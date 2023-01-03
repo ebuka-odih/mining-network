@@ -151,7 +151,7 @@
             </div>
         </div>
     </section>
-    <section class="welcomewrap">
+    {{-- <section class="welcomewrap">
         <div class="content">
             <div class="heading">
                 <h2 class="zoomIn wow"> Mining Farm<strong> Certificate</strong></h2>
@@ -161,7 +161,7 @@
                 <a href="https://find-and-update.company-information.service.gov.uk/search?q=13387599" target="_blank">Verify</a>
             </div>
         </div>
-    </section>
+    </section> --}}
     <section class="featureswrap">
         <div class="content">
             <h2 class="zoomIn wow"><strong>Mining Farm</strong> features</h2>
@@ -398,6 +398,7 @@
     </section>
    @include('front.layout.footer')
 </section>
+
 
 @endsection
 

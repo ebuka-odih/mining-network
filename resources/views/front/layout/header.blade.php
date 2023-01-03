@@ -2,7 +2,7 @@
     <div class="logo"><a href="{{ route('homepage') }}"><img height="100" width="100" src="{{ asset('assets/logo1.png') }}" alt=""/></a></div>
     <div class="nav">
         <ul>
-            <li><a href="{{ route('home') }}">HOME</a></li>
+            <li><a href="{{ route('homepage') }}">HOME</a></li>
             <li><a href="{{ route('about') }}">ABOUT</a></li>
             <li><a href="{{ route('get_started') }}">Get Started</a></li>
             <li><a href="{{ route('faq') }}">FAQ</a></li>
